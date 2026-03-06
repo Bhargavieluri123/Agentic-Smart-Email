@@ -4,8 +4,7 @@
 #   push:
 #     branches: [ main ]
 #   workflow_dispatch:
-#   schedule:
-#     - cron: "*/30 * * * *"   # Runs every 30 minutes (UTC)
+# Runs every 30 minutes (UTC)
 
 # jobs:
 #   build-and-run:
